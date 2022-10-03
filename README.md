@@ -1,2 +1,2 @@
 # upload
-téléverser un projet vers github
+téléverser un projet vers github par différentes commandes.
